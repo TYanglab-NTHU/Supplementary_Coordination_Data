@@ -13,7 +13,9 @@
   **指導教授**：楊自雄 教授 
 ---
 
-[點此查看 Sankey Diagram](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/Sankey_coor1.html)
-
-
- 
+[Sankey Diagram 互動版(coor1)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/Sankey_coor1.html)
+[Sankey Diagram 互動版(coor2)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/Sankey_coor2.html)
+[Sankey Diagram 互動版(coor3)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/Sankey_coor3.html)
+[Sankey Diagram 互動版(coor4)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/Sankey_coor4.html)
+[Sankey Diagram 互動版(coor5)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/Sankey_coor5.html)
+[Sankey Diagram 互動版(coor6)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/Sankey_coor6.html)
