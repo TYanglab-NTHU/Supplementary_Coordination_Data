@@ -20,21 +20,31 @@
 [Sankey Diagram 互動版(coor1)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_1.html)  
  
 **🔹Coordination 2:**
+![Heatmap](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Heatmap_coor2_ratio.png)  
+![Ligand_Reference](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Ligand_Reference_coor2.png)  
 ![Sankey Diagram](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_2.png)  
  [Sankey Diagram 互動版(coor2)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_2.html)  
  
 **🔹Coordination 3:**
+![Heatmap](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Heatmap_coor3_ratio.png)  
+![Ligand_Reference](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Ligand_Reference_coor3.png)  
 ![Sankey Diagram](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_3.png)  
 [Sankey Diagram 互動版(coor3)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_3.html) 
  
 **🔹Coordination 4:**
+![Heatmap](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Heatmap_coor4_ratio.png)  
+![Ligand_Reference](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Ligand_Reference_coor4.png)  
 ![Sankey Diagram](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_4.png)  
 [Sankey Diagram 互動版(coor4)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_4.html)  
  
 **🔹Coordination 5:**
+![Heatmap](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Heatmap_coor5_ratio.png)  
+![Ligand_Reference](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Ligand_Reference_coor5.png)  
 ![Sankey Diagram](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_5.png)  
 [Sankey Diagram 互動版(coor5)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_5.html)  
  
 **🔹Coordination 6:**
+![Heatmap](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Heatmap_coor6_ratio.png)  
+![Ligand_Reference](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Ligand_Reference_coor6.png)  
 ![Sankey Diagram](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_6.png)  
 [Sankey Diagram 互動版(coor6)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_6.html)  
