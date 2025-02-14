@@ -15,8 +15,8 @@
 以下為 **Heatmap** 及 **Sankey Diagram** 預覽圖(點擊連結即可查看Sankey Diagram互動版)：  
 **🔹Coordination 1:**
 ![Heatmap](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Heatmap_coor1_ratio.png)  
+![Ligand_Reference](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Ligand_Reference_coor1.png)  
 ![Sankey Diagram](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_1.png)  
-![Ligand_Reference](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Ligand_Reference_coor1.png)
 [Sankey Diagram 互動版(coor1)](https://tyanglab-nthu.github.io/Supplementary_Coordination_Data/sankey_coverage_1.html)  
  
 **🔹Coordination 2:**
