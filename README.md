@@ -1,7 +1,7 @@
 # 配位數補充數據（Supplementary Coordination Data）
 
 本資料夾包含大專生研究計畫的補充數據，針對**配位數 1 至 6** 的錯合物進行分析，並透過 Heatmap 與 Sankey 圖表呈現金屬分布模式與配位基選擇趨勢。
-以下為 **Heatmap** 及 **Sankey Diagram** 預覽圖(點擊連結即可查看Sankey Diagram互動版)：  
+以下為 **Heatmap** 及 **Sankey Diagram** 預覽圖，點擊連結即可查看Sankey Diagram互動版(可拖曳節點、查看詳細數據等等)：  
 
 ## Coordination 1:
 ![Heatmap](https://github.com/TYanglab-NTHU/Supplementary_Coordination_Data/blob/main/Heatmap_coor1_ratio.png)  
