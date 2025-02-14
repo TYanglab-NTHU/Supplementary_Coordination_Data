@@ -5,7 +5,7 @@
 ## 📂 資料內容
 - `Heatmap_coor1.png` - 配位數 1 的 Heatmap
 - `Ligand_Reference_coor1.png` - 配位數 1 用於對應 Heatmap 的 Ligand 標記
-- `Sankey_coor1.html` - 配位數 1 的 Sankey 圖
+- `sankey_coverage_coor1.html` - 配位數 1 的 Sankey 圖
 
 (其餘 2~6 配位數的圖表以相同格式命名)
 ---
